@@ -1,0 +1,26 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "Advance SSD Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SankalpaHettiarachchi/Node-API.git"
+  },
+  "keywords": [
+    "Advance",
+    "SSD"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SankalpaHettiarachchi/Node-API/issues"
+  },
+  "homepage": "https://github.com/SankalpaHettiarachchi/Node-API#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
